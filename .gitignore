@@ -1,0 +1,52 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.venv/
+*.whl
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Frontend build ===
+frontend/dist/
+
+# === Environment / Secrets ===
+.env
+.env.*
+!.env.example
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+
+# === Testing ===
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# === Ruff ===
+.ruff_cache/
+
+# === Generated data ===
+slides/
