@@ -14,23 +14,23 @@ AI 驱动的幻灯片图片生成工具。输入文字描述，通过 Google Ima
 
 ## 效果展示
 
-<!-- 在 GitHub 上编辑此区域，插入截图地址 -->
-
 ### 项目列表
 
-<!-- ![项目列表](https://your-image-url/1.png) -->
+<img width="2577" height="1626" alt="c760e5942d46b32d8ddaedc3b36056ac" src="https://github.com/user-attachments/assets/d24d34c4-9673-42e2-a60d-abdd24c3f499" />
 
 ### 幻灯片编辑与图片生成
 
-<!-- ![编辑与生成](https://your-image-url/2.png) -->
+<img width="2577" height="1626" alt="5becd12cc8e6691071f49ffff49b55ff" src="https://github.com/user-attachments/assets/81062fed-2a32-47c7-8bd5-b113779795ff" />
+
+<img width="2568" height="1614" alt="f1b1e242f110b4da6d0eb8a0054eb8f6" src="https://github.com/user-attachments/assets/8b29adab-c4a1-445e-9fef-904fb7cd543c" />
 
 ### 风格设定
 
-<!-- ![风格设定](https://your-image-url/3.png) -->
+<img width="2571" height="1616" alt="c3704637f2e1535e92ee6fb4ea066543" src="https://github.com/user-attachments/assets/1b277c06-a866-46d0-b1f2-7c6b7175eb9c" />
 
 ### 全屏播放
 
-<!-- ![全屏播放](https://your-image-url/4.png) -->
+<img width="2706" height="1920" alt="7bf7eab0aa1f87a7c9a15bb149da5887" src="https://github.com/user-attachments/assets/7c986caa-a100-4114-af5d-2cae007197e2" />
 
 ## 技术架构
 
