@@ -24,6 +24,9 @@ frontend/dist/
 .env.*
 !.env.example
 
+# === Claude Code ===
+.claude/
+
 # === IDE ===
 .vscode/
 .idea/
